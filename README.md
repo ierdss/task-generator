@@ -14,7 +14,21 @@ However, you are too lazy to write tasks one by one.
 
 With this simple app you just need to answer a few questions and you can copy and paste the output into Todoist.
 
+Answer the questions
+
 ![alt text](image-2.png)
+
+Copy the output
+
+![alt text](image-3.png)
+
+Create a subtask
+
+![alt text](image-4.png)
+
+Paste the tasks
+
+![alt text](image-5.png)
 
 # Usage
 
