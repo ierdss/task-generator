@@ -19,7 +19,6 @@ const questions = [
 ];
 
 inquirer.prompt(questions).then((answers) => {
-  console.log(JSON.stringify(answers, null, "  "));
   for (let i = answers.start; i <= answers.end; i++) {
     console.log("Complete Section " + answers.section + " " + i);
   }
