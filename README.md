@@ -2,6 +2,11 @@
 
 My goal is to make the Udemy courses into digestible chunks for myself and to add those tasks into my system in Todoist. However, I am just too lazy to create multiple tasks on Todoist one by one.
 
+<details>
+<summary>Udemy already has checkboxes, why?</summary>
+Because I want the checkboxes incorporated into my Todoist system, not on Udemy.
+</details>
+
 ## Usage
 
 1. download this project
