@@ -1,8 +1,28 @@
-# Purpose
+## Purpose
 
 My goal is to make the Udemy courses into digestible chunks for myself and to add those tasks into my system in Todoist. However, I am just too lazy to create multiple tasks on Todoist one by one.
 
-# Use Case Scenario
+## Usage
+
+1. download this project
+2. run `npm install`
+3. run `node index.js`
+4. answer the following questions
+
+```js
+// Here is an example
+{
+  "section": "37",
+  "start": "322",
+  "end": "328"
+}
+```
+
+### Warning
+
+Adding multiple tasks in Todoist may be slow.
+
+## Use Case Scenario
 
 You want to make every section and subsection in Udemy as a task in Todoist.
 
@@ -26,26 +46,10 @@ Create a subtask
 
 ![alt text](/public/images/image-4.png)
 
-Paste the tasks
+Paste the tasks and add as multiple
 
 ![alt text](/public/images/image-5.png)
 
-# Usage
+Here is what the result looks like
 
-1. download this project
-2. run `npm install`
-3. run `node index.js`
-4. answer the following questions
-
-```js
-// Here is an example
-{
-  "section": "37",
-  "start": "322",
-  "end": "328"
-}
-```
-
-# Warning
-
-Adding multiple tasks in Todoist may be slow.
+![alt text](/public/images/image-6.png)
