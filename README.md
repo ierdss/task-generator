@@ -45,3 +45,7 @@ Paste the tasks
   "end": "328"
 }
 ```
+
+# Warning
+
+Adding multiple tasks in Todoist may be slow.
