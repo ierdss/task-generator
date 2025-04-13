@@ -1,6 +1,8 @@
 ## Purpose
 
-My goal is to make the Udemy courses into digestible chunks for myself and to add those tasks into my system in Todoist. However, I am just too lazy to create multiple tasks on Todoist one by one.
+My goal is to split the Udemy courses into digestible chunks for myself and to add those tasks into my system in Todoist. However, I am just too lazy to create multiple tasks on Todoist one by one. 
+
+This is a simple console program, not a webscraper.
 
 <details>
 <summary>Udemy already has checkboxes, why?</summary>
@@ -8,6 +10,8 @@ Because I want the checkboxes incorporated into my Todoist system, not on Udemy.
 </details>
 
 ## Usage
+
+This program uses `inquirer` to get the section and range as questions on the console. Then prints out the result you can copy and past. 
 
 1. download this project
 2. run `npm install`
